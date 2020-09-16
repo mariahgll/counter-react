@@ -1,0 +1,68 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ 
+  body {
+      background-image: url('https://i.pinimg.com/originals/7d/e2/dd/7de2dd433195f5cf8a95e0a59618ecb6.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-attachment: fixed;
+      background-size: cover;
+      -webkit-bacground-size: cover;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+  }
+    
+
+
+    .app {
+
+    
+    width: 400px;
+    height: 400px;
+    padding: 2% 4%;
+    background-color: whitesmoke;
+    font-family: Sans-serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    border-radius: 8px;
+   
+    }
+
+    .h1 {
+      margin-top: 50px;
+
+    }
+
+.button {
+
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+}
+  
+  .btn {
+
+    margin: 20px 0 20px;
+    background-color: #00330d;
+    color: whitesmoke;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
+   
+    
+  }
+  
+  
+
+
+
+ 
